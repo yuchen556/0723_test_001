@@ -25,3 +25,4 @@
 42	Pycharm_T02
 >>>>>>> Python_test
 61	w/o Perl compose
+62	Add Perl_USB_test
