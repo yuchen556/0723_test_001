@@ -1,0 +1,26 @@
+1	Urgent	Project	Modify the GBM's code for the SN input
+2	High	BBU	Power supply  management chip  I2C Pre-Program
+			GBM 烧录座(Renesas/R4F2113DFT) 需更新
+3	High	project	Git version management
+	High	Hydra	Improve the Hydra test efficiency
+4	Medium	SYS-CVS-02	Record SN of system, COMe, Carrier for SYS-CVS
+5	Medium	Project	FT Hardware, software management
+6	Medium	Project	在EPLM里管理 测试平台的BOM 架构
+7	Medium	Project	ERP管理测试平台的资产
+8	Medium	Project	Test plan of Mass Product
+9	Low	MAC address	MAC address management 
+10	Low	Hydra-UI	Support Anhui setup FT testbed: Hydra-UI
+11	Low	SYS-CVS-12	Analyze Anhui SYS-CVS-12 issue
+<<<<<<< HEAD
+12	Low	Factory	FT HDD backup
+13	Low	CPB-CVS-03	CPB03 HDD and U disk for RMA
+14 	Test01	
+15	Test02
+17	PCI_test01
+18	PCI_test02
+=======
+31	Python_test01
+32	Python_test02
+41	Pycharm_T01
+42	Pycharm_T02
+>>>>>>> Python_test
