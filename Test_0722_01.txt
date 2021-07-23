@@ -24,4 +24,9 @@
 41	Pycharm_T01
 42	Pycharm_T02
 >>>>>>> Python_test
+<<<<<<< HEAD
 51	Perl_test
+=======
+61	w/o Perl compose
+62	Add Perl_USB_test
+>>>>>>> Perl_Test
